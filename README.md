@@ -6,7 +6,7 @@
 
 <h2> Certifications </h2>
 
-- [CompTIA Security+](https://imgur.com/a/DkOB4m1)
+- [CompTIA Security+](https://github.com/TJD48/TJD48/blob/main/CompTIA%20Security%2B%20ce%20certificate%20(1).pdf)
 
 
 <h2> 🤳 Connect with me!:</h2>
