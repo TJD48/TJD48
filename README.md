@@ -1,8 +1,21 @@
-## Hi there 👋
+<h1>Hi, I'm Tajai! </h1>
 
-<!--
-**TJD48/TJD48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 IT Projects:</h2>
 
+  - [Active Directory Homelab](https://github.com/TJD48/LABURL)
+
+<h2> Certifications </h2>
+
+- [CompTIA Security+](https://github.com/CERTURL)
+
+
+<h2> 🤳 Connect with me!:</h2>
+
+[<img align="left" alt="TajaiJones | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/tajai-jones-2b24b1204/
+
+<!---
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
