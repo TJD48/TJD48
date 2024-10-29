@@ -6,7 +6,7 @@
 
 <h2> Certifications </h2>
 
-- [CompTIA Security+](https://github.com/CERTURL)
+- [CompTIA Security+](https://imgur.com/a/DkOB4m1)
 
 
 <h2> 🤳 Connect with me!:</h2>
