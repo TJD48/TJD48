@@ -1,4 +1,4 @@
-<h1>Hi, I'm Tajai! </h1>
+<h1>Hi, I'm Tajai! I am currently a Cybersecurity student looking to turn my passion of information security into a profession! On this page you will find various projects I am working on to expand my knowledge base on IT Security. Enjoy your stay! </h1>
 
 <h2>👨‍💻 IT Projects:</h2>
 
