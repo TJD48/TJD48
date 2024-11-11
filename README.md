@@ -25,13 +25,9 @@ Hi, I'm Tajai! I am currently a Cybersecurity student looking to turn my passion
   - [Active Directory Homelab](https://github.com/TJD48/LABURL)
 
 <h2>📝 Write Ups:</h2>
-  - Hackthissite.org
-
-<h2> Certifications </h2>
-
-- [CompTIA Security+](https://github.com/TJD48/TJD48/blob/main/CompTIA%20Security%2B%20ce%20certificate%20(1).pdf)
-
-
+  <ul>
+    <li><a href="hackthissite.org_Writeups">Hackthissite.org</a></li>
+  </ul>
 <h2> 🤳 Connect with me!:</h2>
 
 [<img align="left" alt="TajaiJones | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
