@@ -2,7 +2,9 @@
 <h1>👨‍🎓 Tajai Jones </h1>
 <h2><strong>Technology Enthusiast (Developer/IT-Professional/Lifelong Learner)</strong><h2>
 
-Hi, I'm Tajai! I am currently a Cybersecurity student looking to turn my passion of information security into a profession! On this page you will find various projects I am working on to expand my knowledge base on IT Security. Enjoy your stay!
+<p> Hi, I'm Tajai! I am currently a Cybersecurity student looking to turn my passion of information security into a profession! 
+    On this page you will find various projects I am working on to expand my knowledge base on IT Security. Enjoy your stay!
+</p>
 </h1>
 
 <h2>🏆 Certifications </h2>
